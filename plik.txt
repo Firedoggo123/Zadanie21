@@ -1,2 +1,3 @@
 Marcin Trojanowski 13:35 26.05.2024
 Jacek Diakun 13:43 26.05.2024
+branch: feature-trzecia_linia: Jacek Diakun 13:48 26.05.2024
